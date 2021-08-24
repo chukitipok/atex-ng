@@ -1,0 +1,12 @@
+{
+  "name": "@chukitipok/atex-ng",
+  "version": "0.0.3",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0",
+    "@angular/flex-layout": "^12.0.0-beta.34"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
