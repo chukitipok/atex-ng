@@ -1,13 +1,13 @@
 import { NgModule } from '@angular/core';
-import { FlexModule } from "@angular/flex-layout";
+import { FlexLayoutModule } from "@angular/flex-layout";
 
 @NgModule({
   declarations: [],
   imports: [
-    FlexModule
+    FlexLayoutModule
   ],
   exports: [
-    FlexModule
+    FlexLayoutModule
   ]
 })
 export class AtexCommonModule { }
